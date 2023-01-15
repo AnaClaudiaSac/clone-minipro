@@ -38,14 +38,14 @@ ul li {
     margin-right: 20px;
 }
 
-ul li a {
+.nav-menu li a {
     text-decoration: none;
     color: white;
     font-size: 14px;
     font-weight: 700;
 }
 
-ul li a:hover {
+.nav-menu li a:hover {
     text-decoration: none;
     color: orange;
 }
@@ -86,4 +86,22 @@ ul li a:hover {
     background-color: transparent;
     border: 2px solid #fff;
     color: white;
+}    
+
+.image-section {
+    text-transform: uppercase;
+    padding: 100px 30px;
 }
+
+.image-menu {
+    justify-content: center;
+}
+
+.image-menu li {
+    text-decoration: none;
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+    
+}
+
